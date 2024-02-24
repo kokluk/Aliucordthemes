@@ -1,15 +1,15 @@
 {
     "manifest": {
         "license": ":/",
-        "name": "Kan Kırmızısı",
+        "name": "NightRed",
         "author": "bykokluk",
-        "version": "0.0.2"
+        "version": "0.0.3"
     },
     "background": {
         "overlay_alpha": 0
     },
     "fonts": {
-        "*": "https://github.com/Bykokluk/Aliucordthemes/blob/main/Fonts/OpenSans-Italic-VariableFont_wdth%2Cwght.ttf"
+        "*": "https://github.com/Bykokluk/Aliucordthemes/blob/main/Fonts/OpenSans-VariableFont_wdth%2Cwght.ttf"
     },
     "simple_colors": {
         "input_background": -14145496,
