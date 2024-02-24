@@ -1,3 +1,5 @@
+# My Aliucord Themes🫠
+
 **TR=>Aliucord için Yaptığım Temalar🙃
 En=> Themes I Made for Aliucord🙃**
 
@@ -7,6 +9,6 @@ NightRed=> https://github.com/Bykokluk/Aliucordthemes/releases/tag/Themes
 
 
 
-**My Discord server(Turkish)=> https://discord.gg/nZEHUtsA2N**
+**My Discord server(Turkish🇹🇷)=> https://discord.gg/nZEHUtsA2N**
 
 **Aliucord🫠=> https://github.com/Aliucord/Aliucord**
