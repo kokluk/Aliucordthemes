@@ -1,15 +1,15 @@
 {
     "manifest": {
-        "license": " ",
+        "license": ":/",
         "name": "Kan Kırmızısı",
-        "author": "Bykokluk",
-        "version": "1.0.0"
+        "author": "bykokluk",
+        "version": "0.0.2"
     },
     "background": {
         "overlay_alpha": 0
     },
     "fonts": {
-        "*": "https:\/\/github.com\/DiosDonutSlave\/Jalurple\/raw\/b77d88e3105e440574c02953842a0d7a6e4ee6b9\/gg%20sans%20Medium.ttf"
+        "*": "https://github.com/Bykokluk/Aliucordthemes/blob/main/Fonts/OpenSans-Italic-VariableFont_wdth%2Cwght.ttf"
     },
     "simple_colors": {
         "input_background": -14145496,
