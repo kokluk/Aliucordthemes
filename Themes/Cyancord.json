@@ -2,7 +2,8 @@
     "manifest": {
         "author": "bykokluk",
         "version": "0.0.1",
-        "name": "Cyancord"
+        "name": "Cyancord",
+        "updater": "https:\/\/raw.githubusercontent.com\/Bykokluk\/Aliucordthemes\/main\/Themes\/Cyancord.json"
     },
     "background": {
         "overlay_alpha": 0
