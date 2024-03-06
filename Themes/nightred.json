@@ -2,7 +2,8 @@
     "manifest": {
         "author": "bykokluk",
         "version": "0.0.3",
-        "name": "NightRed"
+        "name": "NightRed",
+        "updater": "https:\/\/raw.githubusercontent.com\/Bykokluk\/Aliucordthemes\/main\/Themes\/nightred.json"
     },
     "background": {
         "overlay_alpha": 0
