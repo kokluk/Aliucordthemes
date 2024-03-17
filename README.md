@@ -11,7 +11,7 @@
 
 Theme/Temalarım=>
 
-NightRed=> https://github.com/Bykokluk/Aliucordthemes/releases/tag/Themes
+NightRed=> Soon/Yakında
 
 Cyancord=>
 Soon/Yakında
