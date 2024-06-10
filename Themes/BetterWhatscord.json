@@ -3,7 +3,8 @@
         "version": "1.0.2",
         "name": "Better WhatsCord",
         "author": "Kokluk",
-        "license": "unlicens"
+        "license": "unlicens",
+        "updater": "https://raw.githubusercontent.com/Bykokluk/Aliucordthemes/main/Themes/BetterWhatscord.json"
     },
     "background": {
         "overlay_alpha": 0,
