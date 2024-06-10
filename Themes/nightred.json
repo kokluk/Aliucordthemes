@@ -3,7 +3,8 @@
         "author": "Kokluk",
         "name": "Nightred",
         "version": "1.0.8",
-        "license": "unlicense "
+        "license": "unlicense ",
+        "updater": "https://raw.githubusercontent.com/Bykokluk/Aliucordthemes/main/Themes/nightred.json"
     },
     "background": {},
     "fonts": {
