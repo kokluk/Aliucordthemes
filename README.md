@@ -10,7 +10,7 @@
 
 NightRed=> Soon
 
-Cyancord=>
+PurpleDark=>
 Soon
 
 **My Discord server(lg🇹🇷)=> https://discord.gg/ZPnV5a3Pdc**
