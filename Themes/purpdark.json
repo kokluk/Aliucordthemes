@@ -1,6 +1,6 @@
 {
     "manifest": {
-        "version": "1.0.0",
+        "version": "1.0.1",
         "transparency_mode": 0,
         "name": "Purpdark Aliu",
         "author": "Kokluk",
@@ -9,7 +9,7 @@
     "background": {
         "blur_radius": 0.5,
         "overlay_alpha": 10,
-        "url": "https:\/\/github.com\/myumichi\/ataraxia-for-aliucord\/blob\/main\/backgrounds\/flower_outline_4-1.jpg?raw=1"
+        "url": "https://raw.githubusercontent.com/Bykokluk/Aliucordthemes/main/Pictures/Wallpaper/purpanimegirl.png"
     },
     "fonts": {
         "*": "https:\/\/github.com\/Bykokluk\/Aliucordthemes\/blob\/main\/Fonts\/OpenSans-VariableFont_wdth%2Cwght.ttf"
