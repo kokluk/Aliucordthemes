@@ -1,83 +1,38 @@
 {
     "manifest": {
-        "version": "1.0.1",
-        "transparency_mode": 0,
-        "name": "Purpdark Aliu",
+        "version": "1.0.2",
+        "name": "PurpleDark",
         "author": "Kokluk",
-        "license": "unlicense"
+        "license": "unlicense "
     },
     "background": {
-        "blur_radius": 0.5,
-        "overlay_alpha": 10,
-        "url": "https://raw.githubusercontent.com/Bykokluk/Aliucordthemes/main/Pictures/Wallpaper/purpanimegirl.png"
+        "overlay_alpha": 0,
+        "url": "https:\/\/raw.githubusercontent.com\/Bykokluk\/Aliucordthemes\/main\/Pictures\/Wallpaper\/purpanimegirl.png"
     },
     "fonts": {
         "*": "https:\/\/github.com\/Bykokluk\/Aliucordthemes\/blob\/main\/Fonts\/OpenSans-VariableFont_wdth%2Cwght.ttf"
     },
     "simple_colors": {
-        "background": -14147797,
-        "background_secondary": -13557189,
-        "input_background": -13557189,
-        "statusbar": -13490125,
-        "active_channel": -12702137,
-        "accent": -8388608,
-        "mention_highlight": 2688C0D0
+        "background": -14671820,
+        "accent": -7630690,
+        "statusbar": -14671820,
+        "mention_highlight": 646496464
     },
     "colors": {
-        "primary_dark_300": -8388608,
-        "primary_dark_400": -8388608,
-        "primary_dark_200": -8388608,
-        "white": -8388608,
-        "white_500": -8388608,
-        "primary_dark_360": -8388608,
-        "link": -8388608,
-        "primary_dark_800": -8388608,
-        "uikit_settings_item_text_color_light": -8388608,
-        "primary_dark_700": -8388608,
-        "primary_dark_630": -8388608,
-        "uikit_settings_item_text_color_dark": -8388608,
-        "primary_dark_660": -8388608,
-        "uikit_btn_bg_color_selector_red": -8388608,
-        "brand_new_560": -8388608,
-        "brand_new_500": -8388608,
-        "link_500": -8388608,
-        "uikit_btn_compound_color_selector_light": -8388608,
-        "uikit_btn_bg_color_selector_green": -9149331,
-        "primary_dark_330": -8388608,
-        "uikit_btn_compound_color_selector_dark": -8388608,
-        "black_alpha_10": -8388608,
-        "brand_new_230": -8388608
+        "primary_dark_300": -7630690,
+        "primary_dark_660": -15527137,
+        "primary_dark_700": -15527137,
+        "primary_dark_800": -15527137,
+        "primary_dark_200": -3092272,
+        "primary_700": -14671820,
+        "uikit_btn_bg_color_selector_green": -14303143,
+        "uikit_btn_bg_color_selector_red": -3211179,
+        "uikit_settings_item_text_color_dark": -7630690,
+        "link": -3211179
     },
     "drawable_tints": {
-        "drawable_overlay_channels_dark": -15265254,
-        "drawable_voice_indicator_speaking": -8388608,
-        "ic_account_circle_white_a60_24dp": -8388608,
-        "ic_archived_clock_dark": -8388608,
-        "ic_arrow_back_white_24dp": -8388608,
-        "ic_channel_announcements": -8388608,
-        "ic_channel_announcements_thread": -8388608,
-        "ic_channel_announcements_nsfw": -8388608,
-        "ic_channel_announcements_thread_nsfw": -8388608,
-        "ic_channel_announcements_thread_locked": -8388608,
-        "ic_channel_lock_16dp": -8388608,
-        "ic_channel_pinned_message": -8388608,
-        "ic_channel_text": -8388608,
-        "ic_channel_text_locked": -8388608,
-        "ic_channel_text_nsfw": -8388608,
-        "ic_channel_topic_ellipsis_dark": -8388608,
-        "ic_channel_voice": -8388608,
-        "ic_channel_voice_locked": -8388608,
-        "ic_direct_message_header": -8388608,
-        "ic_content_copy_white_a60_24dp": -8388608,
-        "ic_file_download_white_24dp": -8388608,
-        "ic_group_message_header": -8388608,
-        "ic_add_friend_plus": -9149331,
-        "drawable_open_folder_dark": -9149331,
-        "ic_sidebar_notifications_on_dark_24dp": -8388608,
-        "ic_sidebar_pins_off_dark_24dp": -8388608,
-        "ic_status_online_16dp": -8388608,
-        "ic_status_idle_16dp": -9149331,
-        "ic_status_dnd_16dp": -9218430
+        "drawable_overlay_channel_pressed_dark": -15527137,
+        "drawable_overlay_channels_selected_dark": -15527137
     },
     "raws": {}
 }
