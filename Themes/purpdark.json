@@ -1,16 +1,16 @@
 {
     "manifest": {
-        "version": "1.0.2",
+        "version": "1.0.3",
         "name": "PurpleDark",
         "author": "Kokluk",
         "license": "unlicense "
     },
     "background": {
         "overlay_alpha": 0,
-        "url": "https:\/\/raw.githubusercontent.com\/Bykokluk\/Aliucordthemes\/main\/Pictures\/Wallpaper\/purpanimegirl.png"
+        "url": "https:\/\/raw.githubusercontent.com\/kokluk\/Aliucordthemes\/main\/Pictures\/Wallpaper\/purpanimegirl.png"
     },
     "fonts": {
-        "*": "https:\/\/github.com\/Bykokluk\/Aliucordthemes\/blob\/main\/Fonts\/OpenSans-VariableFont_wdth%2Cwght.ttf"
+        "*": "https:\/\/github.com\/kokluk\/Aliucordthemes\/blob\/main\/Fonts\/OpenSans-VariableFont_wdth%2Cwght.ttf"
     },
     "simple_colors": {
         "background": -14671820,
@@ -27,7 +27,7 @@
         "primary_700": -14671820,
         "uikit_btn_bg_color_selector_green": -14303143,
         "uikit_btn_bg_color_selector_red": -3211179,
-        "uikit_settings_item_text_color_dark": -7630690,
+        "uikit_settings_item_text_color_dark": -263173,
         "link": -3211179
     },
     "drawable_tints": {
